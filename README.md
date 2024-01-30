@@ -1,7 +1,11 @@
 # **Auto Insurance Analysis Project**
+
 ## **Overview**
+
 Welcome to the Auto Insurance Analysis Project, a comprehensive repository designed to explore and model Auto Insurance data. This project employs sophisticated data science techniques to uncover insights and establish robust models for predictive analysis in the insurance domain.
+
 ## **Repository Contents**
+
 **Exploratory Data Analysis (Finpro EDA.ipynb)**:
 
 **Objective**: This notebook delves into the exploratory data analysis (EDA) of Auto Insurance. It's tailored to reveal underlying patterns, anomalies, and correlations within the data. EDA is the foundational step, setting the stage for more advanced analytical endeavors.
@@ -19,6 +23,7 @@ Welcome to the Auto Insurance Analysis Project, a comprehensive repository desig
 **Description**: This CSV file contains the dataset used for both exploratory data analysis and modeling. The dataset is expected to include various attributes of Auto Insurance, critical to understanding customer behaviors, preferences, and trends in the insurance domain.
 
 ## **How to Use This Repository**
+
 **Getting Started**: Clone this repository to your local machine. Ensure that you have Jupyter Notebook or Jupyter Lab installed to view and interact with the .ipynb files.
 
 **Prerequisites**: Familiarity with Python and basic understanding of data analysis and machine learning concepts are recommended to fully leverage the content of this repository.
