@@ -6,3 +6,18 @@
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2024-01-30 22:37:23,518:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-30 22:37:43,091:WARNING:C:\Users\Nicholas Aprilie\AppData\Local\Temp\ipykernel_10872\373155101.py:38: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  response_distribution_outliers_after = outliers_after['Response'].value_counts() if not outliers_after.empty else pd.Series([])
+
+2024-01-30 22:37:43,148:WARNING:C:\Users\Nicholas Aprilie\AppData\Local\Temp\ipykernel_10872\3128078424.py:38: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  response_distribution_outliers_after = outliers_after['Response'].value_counts() if not outliers_after.empty else pd.Series([])
+
+2024-01-30 22:37:43,286:WARNING:C:\Users\Nicholas Aprilie\AppData\Local\Temp\ipykernel_10872\1101564607.py:38: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  response_distribution_outliers_after = outliers_after['Response'].value_counts() if not outliers_after.empty else pd.Series([])
+
+2024-01-30 22:37:43,891:WARNING:c:\Users\Nicholas Aprilie\AppData\Local\Programs\Python\Python39\lib\site-packages\statsmodels\regression\linear_model.py:1781: RuntimeWarning: invalid value encountered in double_scalars
+  return 1 - self.ssr/self.centered_tss
+
+2024-01-30 22:37:44,213:WARNING:c:\Users\Nicholas Aprilie\AppData\Local\Programs\Python\Python39\lib\site-packages\statsmodels\stats\outliers_influence.py:198: RuntimeWarning: divide by zero encountered in double_scalars
+  vif = 1. / (1. - r_squared_i)
+
