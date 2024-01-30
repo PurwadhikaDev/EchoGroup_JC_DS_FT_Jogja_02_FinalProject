@@ -15,15 +15,20 @@ Welcome to the Auto Insurance Analysis Project, a comprehensive repository desig
 **Description**: This CSV file contains the dataset used for both exploratory data analysis and modeling. The dataset is expected to include various attributes of Auto Insurance, critical to understanding customer behaviors, preferences, and trends in the insurance domain.
 ## **How to Use This Repository**
 **Getting Started**: Clone this repository to your local machine. Ensure that you have Jupyter Notebook or Jupyter Lab installed to view and interact with the .ipynb files.
+
 **Prerequisites**: Familiarity with Python and basic understanding of data analysis and machine learning concepts are recommended to fully leverage the content of this repository.
+
 **Data Analysis**: Start with the Finpro EDA.ipynb notebook for a comprehensive understanding of the dataset. This notebook will guide you through the data cleaning and exploration process.
+
 **Model Building**: After completing the EDA, proceed to the FinPro Modelling.ipynb notebook. Here, you'll explore various machine learning models, understand their application, and learn about their performance on the AutoInsurance dataset.
 ## **Contributing**
 We welcome contributions from data scientists, students, and professionals. If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
 
 ## **Contributor**
 [Novta Winkey Pradana] - https://github.com/winkeypradana
+
 [Nicholas Aprilie] - https://github.com/Nicholas1843
+
 🔗 Explore Dashboard https://public.tableau.com/views/AutoInsuranceRenewalAnalysis/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## **Acknowledgment**
